@@ -87,7 +87,7 @@ a {
 }
 
 .container>div {
-    margin: 10px;
+    margin: 20px;
     width: calc(33.33% - 30px);
     text-align: center;
     background-color: #280d2e;
@@ -127,3 +127,8 @@ footer {
 
     background-color: #280d2e;
 }
+
+
+
+
+
